@@ -1,0 +1,24 @@
+#virtual machine
+.venv/
+venv/
+
+
+#python cache
+__pycache__/
+*.py[cod]
+
+
+#PyCharm
+.idea/workspace.xml
+.idea/task.xml
+.idea/shelf/
+.idea/httpRequests/
+
+#Environments
+.env
+
+#macOS
+.DS_Store
+
+# Windows
+Thumbs.db
